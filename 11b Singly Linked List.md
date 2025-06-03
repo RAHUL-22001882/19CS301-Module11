@@ -1,7 +1,8 @@
 ### EX: 11.b Singly Linked List (Insertion and all operation)
 
 
-### Aim: To Write a python program to add new element at the start of the list.
+### Aim: 
+To Write a python program to add new element at the start of the list.
 
 
 ### Algorithm:
@@ -58,7 +59,8 @@ MyList.PrintList()
 
 
 
-### Result: Thus, the given program is implemented and executed successfully .
+### Result: 
+Thus, the given program is implemented and executed successfully .
  
 
 
