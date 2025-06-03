@@ -1,7 +1,8 @@
 ### EX: 11.d Doubly Linked List (Insertion and all operation)
 
 
-### Aim: To Type a python function to insert elements at the beginning of the doubly linked list.
+### Aim:
+To Type a python function to insert elements at the beginning of the doubly linked list.
 ### Algorithm:
 STEP 1: Start.
 
@@ -69,4 +70,5 @@ new_linked_list.traverse_list()
 
  
 
-### Result: Thus, the given program is implemented and executed successfully.
+### Result:
+Thus, the given program is implemented and executed successfully.
